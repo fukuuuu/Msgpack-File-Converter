@@ -1,7 +1,7 @@
 #include <msgpack.h>
 #include <stdio.h>
 
-/* the actual project is in the folder called "msgpack_file_converter(to JSON) > example */
+/* the actual project is in the folder called "msgpack-file-converter(to JSON) > example */
 int main(void)
 {
     /* msgpack::sbuffer is a simple buffer implementation. */
